@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #D3D3D3;
+}
+
+section#featured-property {
+  text-align: center;
+
+}
+
+figcaption {
+  font-size: .8em;
+}
+
+
+div#description p {
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+section#details {
+  text-align: center;
+}
+
+section#details div {
+  display: block;
+  float: left;
+  background: #ffb3b3;
+  width: 25%;
+
+}
+
+a.details-link {
+  background: #ffb3b3;
+}
